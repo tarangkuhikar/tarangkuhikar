@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarang Kuhikar</h1>
-<h3 align="center">Software engineer - Gamedev | Unity | C# |  Typescript</h3>
+<h3 align="center">Software Developer - Unity | C# |  Typescript | Three.js </h3>
 
 </p>
 Welcome to my GitHub profile!
@@ -19,7 +19,7 @@ I'm someone who enjoys building things, exploring new technologies, and constant
 
 ## ⚙️ Skills & Tools
 
-- Programming Languages: C#, Typescript, Rust
+- Programming Languages: C#, Typescript
 - Databases: PostgreSQL, MongoDB  
 - Tools & Technologies: Git, REST APIs, WebSockets  
 - Other Interests: System Design, Debugging, Optimization  
