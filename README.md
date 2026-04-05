@@ -1,5 +1,9 @@
-# 👋 Hi, I'm Tarang Kuhikar
+<h1 align="center">Hi 👋, I'm Tarang Kuhikar</h1>
+<h3 align="center">Software engineer - Gamedev | Unity | C# |  Typescript</h3>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=tarangkuhikar&label=Profile%20views&color=0e75b6&style=flat" alt="tarangkuhikar" /> 
+</p>
 Welcome to my GitHub profile!
 
 I'm someone who enjoys building things, exploring new technologies, and constantly improving my skills as a developer.
@@ -40,14 +44,15 @@ I'm someone who enjoys building things, exploring new technologies, and constant
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/tarangkuhikar
+- LinkedIn: https://linkedin.com/tarangkuhikar/
+
+--- 
+### 📊 GitHub Stats
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarangkuhikar" />
+</p>
+
+---
