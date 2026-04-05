@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarang Kuhikar</h1>
 <h3 align="center">Software engineer - Gamedev | Unity | C# |  Typescript</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=tarangkuhikar&label=Profile%20views&color=0e75b6&style=flat" alt="tarangkuhikar" /> 
 </p>
 Welcome to my GitHub profile!
 
